@@ -8,7 +8,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   resenpai@deck:~$ whoami                        /\_/\           ║
-║   denis · berlin · systems & security           ( -.- )  zZ      ║
+║   denis · saint-petersburg · systems & security ( -.- )  zZ      ║
 ║                                                  > ^ <           ║
 ║   resenpai@deck:~$ uptime                                        ║
 ║   coding since 2019 · rust · python · typescript                 ║
