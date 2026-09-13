@@ -18,6 +18,8 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
+<img align="right" width="230" src="./assets/aruko.png" alt="Aruko Sakai, rendered on an amber CRT" />
+
 Frontend engineer by trade — React and TypeScript paid the bills for the better
 part of six years. These days the interesting problems live further down: what
 actually holds a blockchain together, what a port scanner sees before you do,
@@ -43,7 +45,7 @@ someone else will have to read them. Usually that someone is me, six months late
 | | project | what it is |
 |---|---|---|
 | 🦀 | **[weak-coin](https://github.com/ReSenpai/weak-coin)** | A cryptocurrency built from zero in Rust, written as a series. Why a hash is the glue that holds a chain, why a signature can't be forged but *can* be sidestepped, why mining is expensive to write and cheap to verify. TDD, one module per chapter. |
-| 🛠️ | **[Cyberdeck](https://github.com/ReSenpai/cyberdeck)** | Composable recon tooling. Every script is one step in a pipe, all speaking a single JSON dialect (`cyberdeck.v1`) — masscan into nmap into whatever comes next. Strict contract: stdout is data, stderr is everything else. |
+| 🛠️ | **[Cyberdeck](https://github.com/ReSenpai/Cyberdeck)** | Composable recon tooling. Every script is one step in a pipe, all speaking a single JSON dialect (`cyberdeck.v1`) — masscan into nmap into whatever comes next. Strict contract: stdout is data, stderr is everything else. |
 | 🧠 | **[memory-arena](https://github.com/ReSenpai/memory-arena)** · [play →](https://resenpai.github.io/memory-arena/) | You are the RAM manager. Programs send ALLOC and FREE requests as tetromino-shaped blocks; you place them, free them by pointer, defragment the garbage, and try not to leak. TypeScript, no engine. |
 | 🌐 | **[whitelist-vps-checker](https://github.com/ReSenpai/whitelist-vps-checker)** | CLI that pulls IPs out of VLESS configs, probes reachability, resolves providers and groups the results. Renders the whole report in box-drawing characters. |
 | ⚙️ | **[rust-todo-api](https://github.com/ReSenpai/rust-todo-api)** | A backend done properly: Rust, PostgreSQL, JWT + Argon2, layered architecture, sqlx migrations on boot, CI on every push, CD to GHCR and a real server on merge. |
