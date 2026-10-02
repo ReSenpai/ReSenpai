@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="./assets/banner.jpg" alt="Late night in a Petersburg flat: a girl in headphones at an old CRT, snowy courtyard outside the window" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=E8A33D&center=true&vCenter=true&width=680&height=45&lines=building+tools%2C+then+tools+for+the+tools;autonomous+scripts+for+networks+and+servers;writing+a+blockchain+in+Rust+to+understand+why+it+holds;memory+allocation%2C+but+as+a+puzzle+game" alt="" />
 
 </div>
