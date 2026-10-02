@@ -18,8 +18,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img align="right" width="230" src="./assets/aruko.png" alt="Aruko Sakai, rendered on an amber CRT" />
-
 Frontend engineer by trade — React and TypeScript, with a stint as tech lead
 along the way. On GitHub I mostly build tools and dig into how things work:
 game tooling like **poe2perfect** and **poe2perfect-trade** for Path of Exile 2,
