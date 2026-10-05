@@ -68,10 +68,10 @@ and Python.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ReSenpai&background=0D1117&border=30363D&stroke=30363D&ring=E8A33D&fire=E8A33D&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=E8A33D&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+<img width="100%" src="./profile-summary-card-output/gruvbox/0-profile-details.svg" alt="contributions" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReSenpai&theme=gruvbox" alt="stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReSenpai&theme=gruvbox&utcOffset=2" alt="when the commits happen" />
+<img width="49%" src="./profile-summary-card-output/gruvbox/3-stats.svg" alt="stats" />
+<img width="49%" src="./profile-summary-card-output/gruvbox/4-productive-time.svg" alt="when the commits happen" />
 
 </div>
 
