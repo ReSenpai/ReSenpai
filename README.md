@@ -20,7 +20,8 @@
 
 Frontend engineer by trade — React and TypeScript, with a stint as tech lead
 along the way. On GitHub I mostly build tools and dig into how things work:
-game tooling like **poe2perfect** and **poe2perfect-trade** for Path of Exile 2,
+game tooling like **poe2perfect** and **poe2perfect-trade** for Path of Exile 2
+and **boars-book** for WoW Classic,
 **Cyberdeck** — a set of autonomous scripts for network and server tasks —
 and research into cryptography and networking.
 
@@ -32,7 +33,7 @@ and Python.
 
 ### `$ cat stack.txt`
 
-`lang    ` ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E8A33D) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E8A33D) ![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=E8A33D) ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E8A33D) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=E8A33D)
+`lang    ` ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E8A33D) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E8A33D) ![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=E8A33D) ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E8A33D) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=E8A33D) ![Lua](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=E8A33D)
 
 `front   ` ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=E8A33D) ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=E8A33D) ![Electron](https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=E8A33D)
 
@@ -51,6 +52,7 @@ and Python.
 | 🧠 | **[memory-arena](https://github.com/ReSenpai/memory-arena)** · [play →](https://resenpai.github.io/memory-arena/) | You are the RAM manager. Programs send ALLOC and FREE requests as tetromino-shaped blocks; you place them, free them by pointer, defragment the garbage, and try not to leak. TypeScript, no engine. |
 | ⚔️ | **[poe2perfect](https://github.com/ReSenpai/poe2perfect)** | One click turns a long build page into tabs: skills, gear, passives and progression each fit on one screen, with game tooltips for everything. |
 | 💱 | **[poe2perfect-trade](https://github.com/ReSenpai/poe2perfect-trade)** | A cleaner workspace for the Path of Exile 2 trade site. Chrome and Firefox extension, TypeScript. |
+| 🐗 | **[boars-book](https://github.com/ReSenpai/boars-book)** | An illustrated in-game book for WoW Classic Era: a dwarf hunter's bestiary of Azeroth's boars, and a hunt for every one of them. Target a boar anywhere in the world and it gets sealed into the book. Lua addon, English and Russian. |
 
 ---
 
