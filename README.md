@@ -21,7 +21,7 @@
 Frontend engineer by trade — React and TypeScript, with a stint as tech lead
 along the way. On GitHub I mostly build tools and dig into how things work:
 game tooling like **poe2perfect** and **poe2perfect-trade** for Path of Exile 2
-and **boars-book** for WoW Classic,
+and a handful of WoW Classic addons, from **craft-compass** to Russian voice-over,
 **Cyberdeck** — a set of autonomous scripts for network and server tasks —
 and research into cryptography and networking.
 
@@ -53,6 +53,9 @@ and Python.
 | ⚔️ | **[poe2perfect](https://github.com/ReSenpai/poe2perfect)** | One click turns a long build page into tabs: skills, gear, passives and progression each fit on one screen, with game tooltips for everything. |
 | 💱 | **[poe2perfect-trade](https://github.com/ReSenpai/poe2perfect-trade)** | A cleaner workspace for the Path of Exile 2 trade site. Chrome and Firefox extension, TypeScript. |
 | 🐗 | **[boars-book](https://github.com/ReSenpai/boars-book)** | An illustrated in-game book for WoW Classic Era: a dwarf hunter's bestiary of Azeroth's boars, and a hunt for every one of them. Target a boar anywhere in the world and it gets sealed into the book. Lua addon, English and Russian. |
+| 🧭 | **[craft-compass](https://github.com/ReSenpai/craft-compass)** | What is this item for, and what does it take to craft? Tooltips and pinned windows that follow an item through every recipe and quest it feeds into, down to the reagents you already carry. WoW Classic addon built on AtlasLoot and Questie data. |
+| 🎙️ | **[quest-voices-ru](https://github.com/ReSenpai/quest-voices-ru)** | Russian voice-over for WoW Classic Era quests: 3902 quests, 8720 lines, about 54 hours of speech, with race voices and male/female variants. A module for VoiceOver; voices by CatQuest Voices (Cathey). |
+| 📜 | **[book-voices-ru](https://github.com/ReSenpai/book-voices-ru)** | The same for books, letters and plaques: 1387 pages read aloud in the voice of whoever wrote them, queued alongside the quests. Finds its page even after Blizzard edits the translation. |
 
 ---
 
